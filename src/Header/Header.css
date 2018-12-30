@@ -1,0 +1,19 @@
+
+.Header {
+    height: 80px;
+    border-bottom: solid 1px;
+  }
+  .Header-container {
+    padding-top: 10px;
+  }
+  .Header-logo {
+    position: absolute;
+    width: 60px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    padding: 5px 10px 0 20px;
+    background-color: transparent;
+  }
+  

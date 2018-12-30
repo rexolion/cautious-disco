@@ -1,0 +1,22 @@
+.Categories-container {
+    display: inline-block;
+    width: 100px;
+    height: calc(100% - 3px);
+    border-left: solid 1px;
+    padding-left: 19px;
+    border-radius: 0px 30px 30px 0px;
+    padding-top: 3px;
+    background-color: #49CE03;
+    color: #FFFF;
+
+  }
+  .Categories-content {
+    color: #000;
+    background-color: #FFFF;
+    position: absolute;
+    z-index: 1;
+    width: 50vw;
+  }
+.Categories-container:hover {
+  background-color: aqua;
+}
